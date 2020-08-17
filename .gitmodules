@@ -1,0 +1,3 @@
+[submodule "Metanome-Frontend"]
+	path = Metanome-Frontend
+	url = https://github.com/HPI-Information-Systems/Metanome-Frontend.git
